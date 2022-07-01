@@ -1,2 +1,2 @@
 # compProgramAnswers
-This Repository is used to maintain my answers of solved competitive programming questions
+This Repository is used to maintain answers of competitive programming questions which i have solved
