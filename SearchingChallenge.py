@@ -22,3 +22,4 @@ def SearchingChallenge(strParam):
   return strParam
 
 print(SearchingChallenge('abcdef'))
+print(SearchingChallenge('abcdefgh'))
